@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Muh. Asfahany Al Ghifari 👋
 
-<!--
-**Asfahany/Asfahany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **AI Engineer** passionate about building intelligent systems and solving real-world challenges through AI, Computer Vision, and Machine Learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Core Competencies
+
+- **Role / Specialization:** AI Engineer
+- **Programming Language:** Python
+- **AI & Data Science:** Computer Vision, Machine Learning (ML), Deep Learning (DL)
+- **Tools & Platforms:** Git & GitHub, VS Code, Linux, Google Colab
+
+---
+
+### 🚀 What I'm Doing
+
+- 👁️ Developing Computer Vision and Deep Learning solutions.
+- 🧪 Exploring AI/ML algorithms for real-world applications.
+- ⚙️ Building automated workflows and intelligent data pipelines.
+
+---
+
+### 📬 Connect with Me
+
+- **LinkedIn:** [linkedin.com/in/muh-asfahany-al-ghifari-10a990357](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
+- **Email:** asfahanyalghifari16@gmail.com
