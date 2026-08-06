@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=Muh.%20Asfahany%20Al%20Ghifari&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Muh.%20Asfahany%20Al%20Ghifari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+real-time+intelligent+systems;Python+%C2%B7+OpenCV+%C2%B7+PyTorch+%C2%B7+MediaPipe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;Building+real-time+intelligent+systems;Python+%C2%B7+OpenCV+%C2%B7+PyTorch+%C2%B7+MediaPipe" alt="Typing SVG" />
 
 <br/>
 
