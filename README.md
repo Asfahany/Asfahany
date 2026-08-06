@@ -8,10 +8,9 @@
 
 Building intelligent systems that see, understand, and act — one model at a time.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:asfahanyalghifari16@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=flat-square&color=6C63FF&label=Profile+Views)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfahanyalghifari16@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 </div>
 
 <br/>
