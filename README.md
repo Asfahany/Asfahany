@@ -1,17 +1,20 @@
 <div align="center">
 
-# Muh. Asfahany Al Ghifari
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;Building+real-time+intelligent+systems;Python+%C2%B7+OpenCV+%C2%B7+PyTorch+%C2%B7+MediaPipe" alt="Typing SVG" />
 
-**AI Engineer · Computer Vision & Deep Learning**
+<br/>
+
+# Muh. Asfahany Al Ghifari
 
 Building intelligent systems that see, understand, and act — one model at a time.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:asfahanyalghifari16@gmail.com)
-
-<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=flat-square&color=6C63FF&label=Profile+Views)
 
 </div>
+
+<br/>
 
 ## About
 
@@ -89,10 +92,56 @@ Real-time text and license plate recognition with EasyOCR, accelerated via PyTor
 
 <br/>
 
+## GitHub Overview
+
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&title_color=111" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=111" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&title_color=111" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=default&hide_border=true&hide_title=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=111" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=default&hide_border=true&hide_title=true" />
+</picture>
 </div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&hide_border=true" />
+</picture>
+</div>
+
+<br/>
+
+## Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Asfahany&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</div>
+
+<br/>
+
+## Contribution Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Asfahany&theme=react-dark&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Asfahany&theme=minimal&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asfahany&theme=minimal&hide_border=true&area=true" />
+</picture>
+</div>
+
+<!--
+Opsional: animasi "snake" yang memakan kotak-kotak contribution graph.
+Butuh 1x setup GitHub Action (gratis, otomatis update tiap hari). Lihat instruksi di bawah.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Asfahany/Asfahany/output/github-contribution-grid-snake.svg" />
+</div>
+-->
 
 <br/>
 
