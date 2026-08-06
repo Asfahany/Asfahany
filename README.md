@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF¢er=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Computer+Vision;Building+real-time+intelligent+systems;Python+%C2%B7+OpenCV+%C2%B7+PyTorch+%C2%B7+MediaPipe" alt="Typing SVG" /> 
-  
-<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=220&section=header&text=Muh.%20Asfahany%20Al%20Ghifari&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=62&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+real-time+intelligent+systems;Python+%C2%B7+OpenCV+%C2%B7+PyTorch+%C2%B7+MediaPipe" alt="Typing SVG" />
 
 <br/>
 
@@ -12,19 +13,6 @@ Building intelligent systems that see, understand, and act — one model at a ti
 ![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
-
-<br/>
-
-# Muh. Asfahany Al Ghifari
-
-Building intelligent systems that see, understand, and act — one model at a time.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfahanyalghifari16@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
-</div>
-
-<br/>
 
 ## About
 
@@ -148,7 +136,6 @@ Real-time text and license plate recognition with EasyOCR, accelerated via PyTor
 <div align="center">
 <img src="https://raw.githubusercontent.com/Asfahany/Asfahany/output/github-contribution-grid-snake.svg" />
 </div>
-
 
 <br/>
 
