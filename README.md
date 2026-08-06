@@ -135,13 +135,10 @@ Real-time text and license plate recognition with EasyOCR, accelerated via PyTor
 </picture>
 </div>
 
-<!--
-Opsional: animasi "snake" yang memakan kotak-kotak contribution graph.
-Butuh 1x setup GitHub Action (gratis, otomatis update tiap hari). Lihat instruksi di bawah.
 <div align="center">
 <img src="https://raw.githubusercontent.com/Asfahany/Asfahany/output/github-contribution-grid-snake.svg" />
 </div>
--->
+
 
 <br/>
 
