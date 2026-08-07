@@ -14,53 +14,6 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="30%" align="center" valign="top">
-
-<img src="assets/profile.png" width="220" style="border-radius:50%;border:3px solid #00fff2;box-shadow:0 0 25px #00fff2, 0 0 45px #6C63FF;" />
-
-</td>
-<td width="70%" valign="top">
-
-<pre>
-<b>asfahany@aiengineer</b>:~$ ./profile --live
-
-<b>SYSTEM.INFO</b> / ENGINEER.PROFILE
-────────────────────────────────────────
-  Subject     : Muh. Asfahany Al Ghifari
-  Role        : AI Engineer
-  Focus       : Computer Vision & Deep Learning
-  Base        : Indonesia
-  Status      : Building / Researching / Shipping
-
-<b>FOCUS.MODE</b>
-────────────────────────────────────────
-  Primary     : Computer Vision
-  Direction   : Real-time Detection & Recognition
-  Themes      : Deep Learning · OCR · Tracking
-
-<b>BUILD.LOG</b>
-────────────────────────────────────────
-  face-detection-opencv  : Real-time face detection
-  hand-tracking-counter  : Gesture / finger counting
-  text-plate-reader      : OCR + license plate reader
-
-<b>GRID.LINES</b>
-────────────────────────────────────────
-  GitHub      : @Asfahany
-  LinkedIn    : muh-asfahany-al-ghifari
-  Email       : asfahanyalghifari16@gmail.com
-
-<i>&gt; signal.locked : AI / COMPUTER_VISION / ENGINEER_</i>
-</pre>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## About
 
 I'm an AI Engineer focused on Computer Vision and Deep Learning — designing systems that turn raw visual data into real-time, actionable insight. My work spans detection, tracking, and recognition, built with a strong foundation in Python and modern CV/DL frameworks.
@@ -96,41 +49,6 @@ OCR, recognition systems, and end-to-end data pipelines with EasyOCR
 </table>
 
 <br/>
-
-## Selected Work
-
-<table>
-<tr>
-<td width="100%">
-
-**[face-detection-opencv](https://github.com/Asfahany/face-detection-opencv)**
-Real-time, multi-face detection application built with Python and OpenCV.
-<sub>Python · OpenCV</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**[hand-tracking-counter](https://github.com/Asfahany/hand-tracking-counter)**
-Real-time hand landmark tracking and finger-counting using MediaPipe.
-<sub>Python · MediaPipe</sub>
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**[text-plate-reader](https://github.com/Asfahany/text-plate-reader)**
-Real-time text and license plate recognition with EasyOCR, accelerated via PyTorch MPS.
-<sub>Python · PyTorch · EasyOCR</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 ## ⚡ Technology Stack
 
 <p align="left">
@@ -148,39 +66,6 @@ Real-time text and license plate recognition with EasyOCR, accelerated via PyTor
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
-<br/>
-
-## GitHub Overview
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=default&hide_border=true&hide_title=true&text_color=333&icon_color=555&title_color=111" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Asfahany&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=default&hide_border=true&hide_title=true&text_color=333&title_color=111" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfahany&layout=compact&theme=default&hide_border=true&hide_title=true" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asfahany&hide_border=true" />
-</picture>
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Asfahany&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</div>
 
 <br/>
 
