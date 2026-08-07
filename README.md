@@ -6,13 +6,60 @@
 
 <br/>
 
-Building intelligent systems that see, understand, and act — one model at a time.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muh-asfahany-al-ghifari-10a990357)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asfahanyalghifari16@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Asfahany&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
 
 </div>
+
+<br/>
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+
+<img src="assets/profile.png" width="220" style="border-radius:50%;border:3px solid #00fff2;box-shadow:0 0 25px #00fff2, 0 0 45px #6C63FF;" />
+
+</td>
+<td width="70%" valign="top">
+
+<pre>
+<b>asfahany@aiengineer</b>:~$ ./profile --live
+
+<b>SYSTEM.INFO</b> / ENGINEER.PROFILE
+────────────────────────────────────────
+  Subject     : Muh. Asfahany Al Ghifari
+  Role        : AI Engineer
+  Focus       : Computer Vision & Deep Learning
+  Base        : Indonesia
+  Status      : Building / Researching / Shipping
+
+<b>FOCUS.MODE</b>
+────────────────────────────────────────
+  Primary     : Computer Vision
+  Direction   : Real-time Detection & Recognition
+  Themes      : Deep Learning · OCR · Tracking
+
+<b>BUILD.LOG</b>
+────────────────────────────────────────
+  face-detection-opencv  : Real-time face detection
+  hand-tracking-counter  : Gesture / finger counting
+  text-plate-reader      : OCR + license plate reader
+
+<b>GRID.LINES</b>
+────────────────────────────────────────
+  GitHub      : @Asfahany
+  LinkedIn    : muh-asfahany-al-ghifari
+  Email       : asfahanyalghifari16@gmail.com
+
+<i>&gt; signal.locked : AI / COMPUTER_VISION / ENGINEER_</i>
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## About
 
